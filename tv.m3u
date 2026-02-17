@@ -49,39 +49,11 @@ https://1s1.rctiplus.id/anevia1/rcti-sdi-avc1_450000=8-mp4a_96000=1.m3u8?auth_ke
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://1s1.rctiplus.id/anevia2/mnctv-sdi.m3u8?auth_key=1771354955-84d8bd3cfef1cc660bf264522860497d-0-dbf4b56d25012aa6ec67f3f4c17c3ccd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d04y4S42/GTV.png" group-title="🌀 Dens TV",3 GTV (R+)
-#EXTVLCOPT:http-user-agent=android-R+		#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/		#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv		https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+#EXTINF:-1,GTV
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://1s1.rctiplus.id/anevia3/gtv-sdi.m3u8?auth_key=1771355083-6b48acf1dbe5a2527ca7c03700710de0-0-dbc0be94b2d8d1c5e1d3b36783128334
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (m3u-ip.tv 3.0.8) LG
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/inews.jpg" group-title="INDONESIA TV",INEWS
-https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
-https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
-#http://103.179.182.117:6768/hls/52/52.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
+#EXTINF:-1,INEWS
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://1s1.rctiplus.id/anevia4/inews-sdi.m3u8?auth_key=1771355169-dcea7aea1f12a5ec763c08ef8dee19a9-0-c648ada69cc57697c7e669e90c5441d5
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (m3u-ip.tv 3.0.8) LG
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="INDONESIA TV",TRANS TV
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
-#http://103.179.182.117:6768/hls/43/43.m3u8
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-https://livestream.transtv.co.id/stream/live/ttv.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (m3u-ip.tv 3.0.8) LG
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/antv.jpg" group-title="INDONESIA TV",ANTV
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
-https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
-#http://103.179.182.117:6768/hls/45/45.m3u8
