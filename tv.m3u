@@ -46,10 +46,7 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (m3u-ip.tv 3.0.8) LG
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://mimipipi22.github.io/logo/nasional/rcti.jpg" group-title="INDONESIA TV", RCTI
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
-https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
-https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
-https://allcutv.rctiplus.id/rcti2023.m3u8
+https://1s1.rctiplus.id/rcti2023-avc1_2500000=17-mp4a_128000=2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
@@ -105,23 +102,3 @@ https://livestream.transtv.co.id/stream/live/ttv.m3u8
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 https://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 #http://103.179.182.117:6768/hls/45/45.m3u8
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://mimipipi22.github.io/logo/nasional/rctiw.jpg" group-title="INDONESIA TV", RCTI WORLD
-https://mimipipi22.github.io/logo/offline.m3u8
-http://tr.simotvgold.com/play/live.php?mac=A0:BB:3E:01:65:3F&stream=1919407&extension=ts&play_token=dmv2u4tzMi
-
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/mnctvw.jpg" group-title="INDONESIA TV",MNCTV WORLD
-https://mimipipi22.github.io/logo/offline.m3u8
-http://tr.simotvgold.com/play/live.php?mac=A0:BB:3E:01:65:3F&stream=1919420&extension=ts&play_token=lJXz60GzNR
-
-#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/gtvw.jpg" group-title="INDONESIA TV",GTV WORLD
-https://mimipipi22.github.io/logo/offline.m3u8
-http://tr.simotvgold.com/play/live.php?mac=A0:BB:3E:01:65:3F&stream=1919441&extension=ts&play_token=1uB9lLCHKU
-
-#EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=4403159,AVERAGE-BANDWIDTH=3716452,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_0"
-https://1s1.rctiplus.id/rcti2023-avc1_2500000=17-mp4a_128000=2.m3u8
-
-#EXTM3U billed-msg="iptv.urfan.web.id - Playlist Ini Gratis Tanpa Donasi, Tidak Boleh Diperjualbelikan, Apalagi Dibagikan Sembarangan, Kami Tidak Mengambil Keuntungan Dari Playlist Ini.", url-tvg="https://s.urfan.web.id/epgxmlgz" refresh="3600"
